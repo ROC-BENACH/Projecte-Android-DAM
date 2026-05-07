@@ -1,5 +1,6 @@
 package com.example.github_project
 
+//CANVI FET EN LOCAL!!!
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
