@@ -1,5 +1,6 @@
 package com.example.github_project
 
+//Canvi desde GitHub!!!
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
