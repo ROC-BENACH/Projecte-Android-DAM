@@ -1,3 +1,4 @@
 <resources>
+    // Aquest canvi s'ha fet a la branca secundària
     <string name="app_name">GitHub_Project</string>
 </resources>
